@@ -1,0 +1,2 @@
+Veri Tabanı Adresi
+Data Source=DESKTOP-DU4I803;Initial Catalog=PersonelVeriTabni;Integrated Security=True
